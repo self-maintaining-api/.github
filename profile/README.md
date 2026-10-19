@@ -1,5 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33677408/README.md)
-<!--
 # Semapi
 
 **Stop finding out in production.**
@@ -38,12 +36,3 @@ or depends on third-party APIs and wants to shape what we cover first,
 [book a demo](https://semapi.progrex.dev).
 
 <sub>Semapi is built by [ProgreX](https://progrex.dev).</sub>
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
